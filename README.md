@@ -12,6 +12,9 @@ This project contains:
 
 +Bisection Method
 
+Sample Output:
+![Screenshot](SampleOutput.png)
+
 
 https://en.wikipedia.org/wiki/Root-finding_algorithms:
 
