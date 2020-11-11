@@ -12,7 +12,7 @@ This project contains:
 
 +Bisection Method
 
-Sample Output:
+Sample Output: Sample Equation -->( x^2+6+9 )
 ------
 ![Screenshot](SampleOutput.png)
 
