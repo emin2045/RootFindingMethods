@@ -13,4 +13,8 @@ This project contains:
 +Bisection Method
 
 
-https://en.wikipedia.org/wiki/Root-finding_algorithms
+https://en.wikipedia.org/wiki/Root-finding_algorithms:
+
+
+
+
