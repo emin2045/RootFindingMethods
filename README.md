@@ -13,6 +13,7 @@ This project contains:
 +Bisection Method
 
 Sample Output:
+------
 ![Screenshot](SampleOutput.png)
 
 
